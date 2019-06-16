@@ -25,7 +25,7 @@ Calculadora = {
         operando = '';
         this.mostrar()
         this.animate()
-        this.limita()
+        
         
        
     },

@@ -1,6 +1,13 @@
 *{
   box-sizing: border-box;
 }
+.text {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
 body{
   background-image: url("../image/fondo.jpg");
   background-size: cover;
